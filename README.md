@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sai009krish
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning react/native
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sanamnvskrishna@gmail.com
 
